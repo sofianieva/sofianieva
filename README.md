@@ -11,12 +11,12 @@ Welcome to my GitHub! Over the course of the last few years I've taken many Data
   -  [Assignments](https://github.com/sofianieva/dortmund), which includes a Market Basket Analysis, Fraud Detection in Retail, Ecommerce Company Analysis, among other data wrangling, data cleaning and machine learning projects.
 
 - Diploma in Data Science and Machine Learning, University of Cordoba:
-  - [Data Analysis and Visualization](https://github.com/sofianieva/data_analysis_and_viz)
-  - [Data Exploration and Cleaning](https://github.com/sofianieva/EDA_and_data_cleaning)
-  - [Introduction to Machine Learning](https://github.com/sofianieva/introduction_to_ML)
-  - [Supervised Learning](https://github.com/sofianieva/supervised_learning)
-  - [Introduction to Graphs and Complex Networks](https://github.com/sofianieva/graphs_and_networks)
-  - [Mentorship project](https://github.com/sofianieva/demand_prediction)
+  - [Data Analysis and Visualization](https://github.com/sofianieva/data_analysis_and_viz): Dataset of the salaries of IT workers in Argentina
+  - [Data Exploration and Cleaning](https://github.com/sofianieva/EDA_and_data_cleaning): Dataset on property sales price in Melbourne, Australia
+  - [Introduction to Machine Learning](https://github.com/sofianieva/introduction_to_ML):  Classification task on imbalanced loans dataset
+  - [Supervised Learning](https://github.com/sofianieva/supervised_learning): Classification task on an imbalance dataset
+  - [Introduction to Graphs and Complex Networks](https://github.com/sofianieva/graphs_and_networks): Analysis of communities in graph of retweets
+  - [Mentorship project](https://github.com/sofianieva/demand_prediction): Demand prediction
 
 - MSc in Applied Mathematics, University of Buenos Aires:
   - [Master's Thesis](https://github.com/sofianieva/msc_thesis): Study of time-frequency representations in the presence of heteroscedastic dependent noise
