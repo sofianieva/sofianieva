@@ -23,7 +23,7 @@ Welcome to my GitHub! Over the course of the last few years I've taken many Data
   - [Applied Mathematics Workshop II](https://github.com/sofianieva/reinforcement_learning): Reinforcement Learning
   - [Optimization](https://github.com/sofianieva/autodiff_with_matlab): Implementatiion of automatic differentiaton in Matlab
 
-
+:email: Connect with me on [LinkedIn](https://www.linkedin.com/in/sofia-nieva/) 
 <!--
 **sofianieva/sofianieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
