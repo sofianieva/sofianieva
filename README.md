@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! Over the course of the last few years I've taken many Data Science and Machine Learning courses at different universities and worked on many interesting projects. Here you can find some of them
+Welcome to my GitHub! Over the course of the last few years I've taken many Data Science and Machine Learning courses at different universities and worked on many interesting projects. Here you can find some of them:
 
 ### Personal Projects
 - [Today's vs. Past Weather App](https://github.com/sofianieva/weather_app). End-to-end project: Data retrieval from public API's, cleaning and exploration. Design of an interactive visualization with plotly and streamlit. Hosted on AWS, available at http://35.88.156.189:8501/.
