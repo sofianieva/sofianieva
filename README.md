@@ -21,7 +21,7 @@ Welcome to my GitHub! Over the course of the last few years I've taken many Data
 - MSc in Applied Mathematics, University of Buenos Aires:
   - [Master's Thesis](https://github.com/sofianieva/msc_thesis): Study of time-frequency representations in the presence of heteroscedastic dependent noise
   - [Applied Mathematics Workshop II](https://github.com/sofianieva/reinforcement_learning): Reinforcement Learning
-  - [Optimization](https://github.com/sofianieva/optimization_course): Implementatiion of automatic differentiaton in Matlab
+  - [Optimization](https://github.com/sofianieva/optimization_course): Gradient descent methods, Touring problem, Simulated Annealing, Stochastic Hill Climbing, Genetic algorithms, implementation of automatic differentiaton in Matlab
 
 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/sofia-nieva/) 
 <!--
