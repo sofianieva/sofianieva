@@ -16,7 +16,7 @@ Welcome to my GitHub! Over the course of the last few years I've taken many Data
   - [Introduction to Machine Learning](https://github.com/sofianieva/introduction_to_ML):  Classification task on imbalanced loans dataset
   - [Supervised Learning](https://github.com/sofianieva/supervised_learning): Classification task on an imbalance dataset - Kaggle
   - [Introduction to Graphs and Complex Networks](https://github.com/sofianieva/graphs_and_networks): Analysis of communities in graph of retweets
-  - [Mentorship project](https://github.com/sofianieva/demand_prediction): Demand prediction. Real sales records (+5.5M entries)
+  - [Mentorship project](https://github.com/sofianieva/demand_prediction): Demand prediction (+5.5M real sales records)
 
 - MSc in Applied Mathematics, University of Buenos Aires:
   - [Master's Thesis](https://github.com/sofianieva/msc_thesis): Study of time-frequency representations in the presence of heteroscedastic dependent noise
